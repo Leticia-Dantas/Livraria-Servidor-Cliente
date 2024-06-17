@@ -18,7 +18,7 @@ Este projeto é um sistema simples de gerenciamento de livros implementado em Ja
 2. **Alugar Livro**: Alugar um livro e declementa um exemplar.
 3. **Devolver Livro**: Devolver um livro alugado e aumenta um exemplar .
 4. **Cadastrar Livro**: Adicionar um novo livro ao sistema.
-   Obs: Todas essas alterações afentam o arquivo JSON.
+**Nota**: Todas essas alterações afentam o arquivo JSON.
 
 ## Instruções de Uso
 1. Inicie primeiro a aplicação Servidor Socket.
